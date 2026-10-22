@@ -1,0 +1,11 @@
+item,model,act change,act post-2022,threat post-2022,n,oil beta pre / post
+Energy,no oil,0.149**,0.104*,-0.037,2888,
+Energy,with oil,0.136**,0.099**,-0.027,2888,0.154 / 0.305
+Defence & aerospace,no oil,0.058,0.031,-0.004,2888,
+Defence & aerospace,with oil,0.059,0.032,-0.005,2888,-0.007 / -0.024
+Energy minus losers,no oil,0.179**,0.127*,-0.040,2820,
+Energy minus losers,with oil,0.164**,0.120**,-0.027,2820,0.172 / 0.370
+Defence minus losers,no oil,0.088,0.054,-0.007,2820,
+Defence minus losers,with oil,0.086,0.053,-0.005,2820,0.013 / 0.039
+S&P 500 (total),no oil,-0.020,-0.014,-0.028,2888,
+S&P 500 (total),with oil,-0.021,-0.014,-0.028,2888,0.076 / 0.007

@@ -1,0 +1,8 @@
+# Data files: not uploaded (can be rebuilt by running the notebooks)
+data/raw/
+data/processed/
+
+# Mac and Jupyter clutter
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/

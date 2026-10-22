@@ -1,0 +1,8 @@
+measure,"corr onset [0,+1]","corr post [0,+5]",lowest leave-one-out (onset)
+"threat ratio [-20,-6] (main)",0.85,0.74,0.7
+"threat z-score [-20,-6]",0.79,0.71,0.64
+"threat ratio [-30,-6]",0.84,0.73,0.66
+"threat ratio [-10,-1]",0.76,0.68,0.48
+"threat trend [-10,-6] vs [-20,-16]",-0.54,-0.47,-0.68
+"total GPR ratio [-20,-6]",0.8,0.63,0.53
+"ACTS ratio [-20,-6] (falsification)",0.14,0.06,-0.13
